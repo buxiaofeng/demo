@@ -1,0 +1,39 @@
+.iconfont {
+    margin-right: 8px;
+}
+
+.layui-nav-item a {
+    font-size: 12px;
+}
+.layui-body{
+    overflow: hidden;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+.avatar{
+    color: white;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    user-select: none;
+}
+.text-avatar{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-color: aquamarine;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 50%;
+    color: white;
+    position: relative;
+    top: 5px;
+    margin-right: 8px;
+}
+.layui-nav-img{
+    width: 40px;
+    height: 40px;
+}
